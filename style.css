@@ -1,0 +1,79 @@
+body {
+    background-image: url("https://i.gifer.com/6Re.gif");
+    background-repeat: repeat;
+    background-blend-mode: darken;
+}
+
+h1 {
+    color: greenyellow;
+    font-size: 100px;
+    text-align: center;
+    animation-name: slide;
+}
+
+h2 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+p {
+    color: navy;
+    font-size: 35px;
+    background-color: tan;
+}
+
+nav {
+    border-style: solid;
+    border-color: black;
+    list-style-type: none;
+    background-color: #343d46;
+}
+
+ul.navmenu {
+    padding-left: 260px;
+}
+
+ul.navmenu li {
+    font-size: 30px;
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    padding-left: 50px;
+}
+
+ul.navmenu a {
+    color: whitesmoke;
+}
+
+ul.navmenu li a:hover {
+    background-color: green;
+}
+
+.aboutlebron img {
+    width: 150px;
+}
+
+
+section p {
+    text-align: center;
+}
+
+.championship {
+    text-align: center;
+}
+
+
+.goatsection {
+    background-color: tan;
+}
+
+.gif {
+    float: left;
+    width: 25%;
+}
+
+.lebron4 img {
+    margin-left: 480px;
+    width: 50%;
+}
